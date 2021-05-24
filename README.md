@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sen-442b
 - 👀 I’m interested in ...programming 
-- 🌱 I’m currently learning ... Web Devlopment
+- 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ...Real World Projects
 - 📫 How to reach me ...
 
