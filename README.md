@@ -3,11 +3,7 @@
 <h1 align="left">Hi 👋, I'm Shubhendu Sen</h1>
 <h3 align="left">Developer | ReactJS | JavaScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sen-442b&label=Profile%20views&color=0e75b6&style=flat" alt="sen-442b" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sen-442b" alt="sen-442b" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sen_shubhendu" target="blank"><img src="https://img.shields.io/twitter/follow/sen_shubhendu?logo=twitter&style=for-the-badge" alt="sen_shubhendu" /></a> </p>
 
 - 🔭 I’m currently working on [video-lib](https://demo-video-lib.netlify.app/)
 
