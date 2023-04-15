@@ -1,4 +1,5 @@
 [![@sen442b's Holopin board](https://holopin.io/api/user/board?user=sen442b)](https://holopin.io/@sen442b)
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 <h1 align="left">Hi 👋, I'm Shubhendu Sen</h1>
 <h3 align="left">Developer | ReactJS | JavaScript</h3>
