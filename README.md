@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on [video-lib](https://demo-video-lib.netlify.app/)
+- 🔭 I’m currently working on [Pokedex](https://demo-video-lib.netlify.app/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Apollo-Client/GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://personal-site-shubhendu-sen.netlify.app/](https://personal-site-shubhendu-sen.netlify.app/)
 
