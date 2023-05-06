@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Shubhendu Sen</h1>
-<h3 align="left">Developer | ReactJS | JavaScript</h3>
+<h3 align="left">Developer | React | JavaScript</h3>
 
 
 
