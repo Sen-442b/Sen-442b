@@ -35,7 +35,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sen-442b&show_icons=true&locale=en&layout=compact" alt="sen-442b" /></p>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
