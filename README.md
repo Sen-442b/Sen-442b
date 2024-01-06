@@ -36,9 +36,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 hrs 56 mins  ███████████████████░░░░░░   75.50 %
-Prisma       3 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
-Bash         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+JavaScript   9 hrs 47 mins   ██████████████████▒░░░░░░   72.91 %
+Prisma       3 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+Bash         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
