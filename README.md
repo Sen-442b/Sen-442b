@@ -36,8 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   28 hrs 36 mins  ████████████████████████▓   99.30 %
-Prisma       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+JavaScript   27 hrs 28 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
