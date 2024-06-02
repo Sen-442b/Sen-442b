@@ -36,8 +36,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   17 mins         ███████████████████░░░░░░   76.07 %
-Bash         5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+JavaScript   28 mins         ████████████████████▓░░░░   83.25 %
+Bash         5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
 ```
 
 <!--END_SECTION:waka-->
